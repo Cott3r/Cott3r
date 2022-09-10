@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cott3r
+- 👀 I’m interested in computer stuff
+- 🌱 I’m currently learning computer science
+- 📫 How to reach me:
+  --  cott3r.go@gmail.com
